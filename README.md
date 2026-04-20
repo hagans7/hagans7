@@ -30,16 +30,16 @@ Business Problem  →  Data Pipeline  →  Model / Agent Logic
 Clean systems over clever hacks. Working code over impressive demos.
 
 ---
-
+``
 ## 🚀 Featured Projects
 
-| Project | What It Does | Stack | Signal |
+| Project | What It Does | Stack |
 |---------|-------------|-------|--------|
-| **[Retail Decision Intelligence](https://github.com/YOUR_USERNAME/retail-forecasting)** | Demand forecasting + promotional decision engine | LightGBM · FastAPI · Docker · PostgreSQL | 29 endpoints · 95 tests · −55% MAE |
-| **[Kartika AI — Legal RAG](https://github.com/YOUR_USERNAME)** *(closed source)* | Multi-agent legal reasoning over Indonesian legal texts | FastAPI · Milvus · llama.cpp · Celery · Langfuse | BAB/Pasal/Ayat hierarchical chunking · PLAN→EXECUTE→AUDIT loop |
-| **[Resume Matcher](https://github.com/YOUR_USERNAME/resume-matcher)** | AI hiring assistant with skill gap analysis | CrewAI · FastAPI · Celery · Redis · Docling | Async multi-agent pipeline |
-| **[Demand Forecasting R&D](https://github.com/YOUR_USERNAME/forecasting-lab)** | Feature engineering deep-dive & asymmetric loss experiments | Python · LightGBM · MLflow | Leakage-proof multi-horizon design |
-
+| **[Retail Decision Intelligence](https://github.com/YOUR_USERNAME/retail-forecasting)** | Demand forecasting + promotional decision engine | LightGBM · FastAPI · Docker · PostgreSQL | 
+| **[Kartika AI — Legal RAG](https://github.com/hagans7)** *(closed source)* | Multi-agent legal reasoning over Indonesian legal texts | FastAPI · Milvus · llama.cpp · Celery · Langfuse | 
+| **[Resume Matcher](https://github.com/YOUR_USERNAME/resume-matcher)** | AI hiring assistant with skill gap analysis | CrewAI · FastAPI · Celery · Redis · Docling | 
+| **[Demand Forecasting R&D](https://github.com/YOUR_USERNAME/forecasting-lab)** | Feature engineering deep-dive & asymmetric loss experiments | Python · LightGBM · MLflow |
+``
 ---
 
 ## 🛠 Stack
@@ -80,9 +80,9 @@ Clean systems over clever hacks. Working code over impressive demos.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9CBF&icon_color=7C9CBF&text_color=8b949e&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hagans7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9CBF&icon_color=7C9CBF&text_color=8b949e&rank_icon=github" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9CBF&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagans7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9CBF&text_color=8b949e" />
 
 </div>
 
@@ -94,53 +94,6 @@ Clean systems over clever hacks. Working code over impressive demos.
 
 ---
 
-## 🔭 Currently
-
-```python
-status = {
-    "building"  : "Retail Decision Intelligence Platform → flagship public repo",
-    "exploring" : "Distributed systems · async patterns · advanced retrieval eval",
-    "reading"   : "Designing Data-Intensive Applications",
-    "open_to"   : "AI Engineer / ML Engineer roles",
-}
-```
-
----
-
-## 🏆 Recognition
-
-```
-🥈  National Innovation Competition — Finalist
-🏅  Data Mining Competition — Winner
-📄  IEEE IES 2025 Publication
-🎓  PENS Applied Data Science — GPA 3.83 / 4.00
-```
-
----
-
-## 💡 Engineering Philosophy
-
-```text
-Clean systems > clever hacks.
-Reproducible > lucky.
-Boring infra, interesting ideas.
-
-If it only works in a notebook — it doesn't work yet.
-```
-
----
-
-## 🐛 Debug Facts
-
-```python
-daily_breakdown = {
-    "actual_coding"       : "65%",
-    "reading_docs"        : "20%",
-    "wondering_why_it_worked" : "15%",
-}
-
-hot_take = "The most useful metric is not accuracy. It's reproducibility."
-```
 
 ---
 
