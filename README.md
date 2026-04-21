@@ -101,7 +101,7 @@ with code, curiosity, and caffeine
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7C9CBF&ring=7C9CBF&fire=7C9CBF&currStreakLabel=7C9CBF" />
+<img src="https://streak-stats.demolab.com?user=hagans7&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7C9CBF&ring=7C9CBF&fire=7C9CBF&currStreakLabel=7C9CBF" />
 
 </div>
 
