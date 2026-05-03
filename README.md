@@ -22,18 +22,18 @@ Just a human trying to stay useful
 in the age of AI and survive in this economy 
 with code, curiosity, and caffeine
 
-<!--
+
 ---
 ## 🚀 Featured Projects
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|--------|
-| **[Retail Decision Intelligence](https://github.com/YOUR_USERNAME/retail-forecasting)** | Demand forecasting + promotional decision engine | LightGBM · FastAPI · Docker · PostgreSQL | 
-| **[Kartika AI — Legal RAG](https://github.com/hagans7)** *(closed source)* | Multi-agent legal reasoning over Indonesian legal texts | FastAPI · Milvus · llama.cpp · Celery · Langfuse | 
-| **[Resume Matcher](https://github.com/YOUR_USERNAME/resume-matcher)** | AI hiring assistant with skill gap analysis | CrewAI · FastAPI · Celery · Redis · Docling | 
-| **[Demand Forecasting R&D](https://github.com/YOUR_USERNAME/forecasting-lab)** | Feature engineering deep-dive & asymmetric loss experiments | Python · LightGBM · MLflow |
+| **[Retail Decision Intelligence](https://github.com/hagans7/Retail-Demand-Forecasting-Inventory-Optimization-System-)** | Demand forecasting + promotional decision engine | LightGBM · FastAPI · Docker · PostgreSQL | 
+| **[Legal RAG](https://github.com/hagans7/Retrieval-Augmented-Generation-Based-Question-Answering-System-on-Policy-Documents)** | Multi-agent legal reasoning over Indonesian legal texts | Langgraph · Langchain · Neo4j · Weaviate · Langfuse | 
+| **[Resume Matcher](https://github.com/hagans7/resume_matcher)** | AI hiring assistant with skill gap analysis | CrewAI · FastAPI · Celery · Redis · Docling | 
+
 ---
--->
+
 ## 🛠 Stack
 
 <div align="center">
