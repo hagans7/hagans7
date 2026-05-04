@@ -1,0 +1,32 @@
+# File ini: .github/workflows/snake.yml
+# Letakkan di repo: hagans7/hagans7 (repo profil kamu)
+# Path lengkap: .github/workflows/snake.yml
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Jalan otomatis tiap hari tengah malam UTC
+  workflow_dispatch:        # Bisa trigger manual dari tab Actions
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake (dark + light mode)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to branch `output`
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

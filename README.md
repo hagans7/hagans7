@@ -4,10 +4,12 @@
 
 # Hagan Sadina Rahman
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=7C9CBF&center=true&vCenter=true&width=900&lines=AI+/+ML+/+Data+Engineer+%E2%80%94+building+systems+that+actually+ship;RAG+%7C+Forecasting+%7C+Backend+%7C+ML+Systems+%7C+Analytics+%7C+Cloud+%7C+Data+Engineering;If+it+only+works+in+notebook%2C+it+doesn%27t+work+yet;Works+on+my+machine,+one+bug+at+a+time+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=7C9CBF&center=true&vCenter=true&width=900&lines=AI+%2F+ML+%2F+Data+Engineer+%E2%80%94+building+systems+that+actually+ship;RAG+%7C+Forecasting+%7C+Backend+%7C+ML+Systems+%7C+Analytics+%7C+Cloud;If+it+only+works+in+notebook%2C+it+doesn%27t+work+yet;Works+on+my+machine%2C+one+bug+at+a+time+%E2%98%95;Open+for+AI+%2F+ML+%2F+Data+Science+roles+%E2%80%94+Indonesia+%26+Remote" alt="Typing SVG" />
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=hagans7&color=4a5568&style=flat-square&label=views)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hagansadinarahman)
 [![Email](https://img.shields.io/badge/Email-Reach+Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmanhagan@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/hagans7?style=flat-square&color=6e7681&label=Followers)](https://github.com/hagans7)
@@ -19,10 +21,11 @@
 ## `$ whoami`
 
 Just a human trying to stay useful
-in the age of AI and survive in this economy 
+in the age of AI and survive in this economy
 with code, curiosity, and caffeine
 
 ---
+
 ## 🚀 Featured Projects
 
 | Project | What It Does | Stack |
@@ -32,6 +35,7 @@ with code, curiosity, and caffeine
 | **[📄 Resume Matcher](https://github.com/hagans7/resume_matcher)** | AI hiring assistant with skill gap analysis | CrewAI · FastAPI · Celery · Redis · Docling |
 
 ---
+
 ## 🛠 Stack
 
 <div align="center">
@@ -99,27 +103,64 @@ with code, curiosity, and caffeine
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Chainlit](https://img.shields.io/badge/Chainlit-1A1A2E?style=flat-square&logo=python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
+
 </div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hagans7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9CBF&icon_color=7C9CBF&text_color=8b949e&rank_icon=github" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagans7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9CBF&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats-l4w0anicv-hagans7s-projects.vercel.app/api?username=hagans7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9CBF&icon_color=7C9CBF&text_color=8b949e&rank_icon=github&v=2" alt="GitHub Stats" />
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hagans7&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7C9CBF&ring=7C9CBF&fire=7C9CBF&currStreakLabel=7C9CBF" />
+<img height="160" src="https://github-readme-stats-l4w0anicv-hagans7s-projects.vercel.app/api/top-langs/?username=hagans7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7C9CBF&text_color=8b949e&v=2" alt="Top Languages" />
 
 </div>
 
 ---
 
+## 📈 3D Contribution Calendar
+
+<div align="center">
+
+<!-- Auto-generated oleh GitHub Actions, lihat .github/workflows/3d-contrib.yml -->
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" width="100%"/>
+
+</div>
+
+---
+
+## ⌨️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!-- WakaTime stats  -->
+<!--END_SECTION:waka-->
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hagans7&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hagans7/hagans7/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hagans7/hagans7/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://github.com/hagans7/hagans7/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -137,3 +178,4 @@ with code, curiosity, and caffeine
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 
 </div>
+
