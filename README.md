@@ -135,7 +135,15 @@ with code, curiosity, and caffeine
 ## ⌨️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats  -->
+
+```txt
+From: 26 April 2026 - To: 03 May 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
