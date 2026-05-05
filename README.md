@@ -132,25 +132,6 @@ with code, curiosity, and caffeine
 
 ---
 
-## ⌨️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 27 April 2026 - To: 04 May 2026
-
-Total Time: 21 mins
-
-Markdown   18 mins               █████████████████████▒░░░   85.30 %
-YAML       2 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-Text       0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
 ## 🏆 Trophies
 
 <div align="center">
